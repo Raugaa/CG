@@ -22,5 +22,32 @@ An intuitive and feature-rich drawing application built using Python's Tkinter l
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://gi
+
+## Install the Pillow library
+
+2. Clone this repository:
+   ```bash
+   pip install Pillow
+
+## Run the application:
+
+3. Clone this repository:
+   ```bash
+   python drawing_app.py
+ ## Usage
+
+- **Select a Tool**: Choose a drawing tool (Pencil, Eraser, Spray) or a shape (Line, Rectangle, Circle) from the "Tools" and "Shapes" panels on the right.
+  
+- **Adjust Brush Size**: Use the +/- buttons under "Brush Size" to increase or decrease the brush size for your drawings.
+
+- **Pick a Color**: Click the "Pick Color" button to open a color picker dialog and choose your desired color for drawing.
+
+- **Draw on the Canvas**: Click and drag your mouse on the canvas to create drawings with the selected tool.
+
+- **Save Your Drawing**: Click the "Save" button to save your artwork as a PNG file. A file dialog will prompt you to choose a location to save your image.
+
+- **Load an Existing Image**: Use the "Load" button to open a PNG file and display it on the canvas.
+
+- **Clear the Canvas**: Click the "Clear" button to remove all drawings from the canvas and start fresh.
+
